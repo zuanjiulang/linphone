@@ -1,0 +1,2 @@
+# linphone
+cross compile linphone
